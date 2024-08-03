@@ -1,0 +1,9 @@
+html,
+body,
+img,
+picture,
+video,
+.rc-VideoControlsContainer,
+#rendered-content {
+  filter: invert(1) hue-rotate(180deg);
+}
